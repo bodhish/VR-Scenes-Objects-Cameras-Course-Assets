@@ -4,4 +4,7 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/UdacityVR/Scenes/CamerasApartment.unity
+    guid: 4c85ca11edd84e94d9e7c117125eefd9
